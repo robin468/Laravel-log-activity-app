@@ -3,13 +3,7 @@
 namespace App\Http\Controllers;
 use App\User;
 use App\users;
-use Illuminate\Database\Eloquent\Model;
-use Illuminate\Support\Facades\App;
 use Spatie\Activitylog\Models\Activity;
-use Illuminate\Foundation\Bus\DispatchesJobs;
-use Illuminate\Routing\Controller as BaseController;
-use Illuminate\Foundation\Validation\ValidatesRequests;
-use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
 
 class DummyController extends Controller
 {
