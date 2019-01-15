@@ -2,7 +2,6 @@
 
 namespace App\Http\Controllers;
 use App\User;
-use App\users;
 use Spatie\Activitylog\Models\Activity;
 
 class DummyController extends Controller
